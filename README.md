@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @darkyoyong [Jules Bryan Mapatac]
 - 👀 I’m interested in Web Development, Game Development, and how to live like a proper adult.
-- 🌱 I’m currently learning more Angular ... looking forward to learning ReactJS and Flutter too. (and LEARN BACKEND!)
 - 📫 How to reach me ...
         email | jules.mapatac@gmail.com
 <!---
