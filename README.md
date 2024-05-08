@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @darkyoyong [Jules Bryan Mapatac]
-- 👀 I’m interested in Web Development, Game Development, and how to live like a proper adult.
+- 👀 I’m diving in Web Development, Mobile Development, Game Development, and how to live like a proper adult.
 - 📫 How to reach me ...
         email | jules.mapatac@gmail.com
 <!---
